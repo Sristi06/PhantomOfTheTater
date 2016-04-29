@@ -1,3 +1,4 @@
+
 <img id="myImage" onclick="changeImage()" src="http://36.media.tumblr.com/a3fb66cc80ea1a93d0b24c84c8bcab96/tumblr_inline_nvkabqeS8K1sotnhf_500.png" width="180" height="180">
 
 <p>Click the cat to make it taller.</p>
