@@ -9,6 +9,9 @@ div {
     display:inline-block;
     margin:8px;
     padding:20px;
+    background:white;
+    border:purple;
     border-width:5px;
-    border-styl
+    border-style:dotted;
+
 }
