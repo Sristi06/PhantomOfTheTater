@@ -16,7 +16,7 @@ ul {
 
 }
 
-img {
+img.nav {
     border:purple;
     border-style:dotted;
     border-width:5px;
