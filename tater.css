@@ -15,3 +15,9 @@ ul {
     border-style:dashed;
 
 }
+
+img {
+    border:purple;
+    border-style:dashed;
+    border-width:5px;
+}
