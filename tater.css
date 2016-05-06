@@ -13,11 +13,8 @@ ul {
     border:purple;
     border-width:5px;
     border-style:dashed;
+    border-radius:5px;
 
 }
 
-img.nav {
-    border:purple;
-    border-style:dotted;
-    border-width:5px;
-}
+
