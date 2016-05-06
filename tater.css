@@ -17,16 +17,5 @@ ul {
 
 }
 
-ul :hover {
-  attribute: value;
-    display:inline-block;
-    margin:8px;
-    padding:20px;
-    background:pink;
-    border:purple;
-    border-width:5px;
-    border-style:dashed;
-    border-radius:5px;
-}
 
 
