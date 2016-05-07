@@ -11,3 +11,8 @@ ul {
     border-radius:5px;
 
 }
+
+body{
+    background:rgba(255, 80, 230, 0.37);
+    text-align:center;
+}
