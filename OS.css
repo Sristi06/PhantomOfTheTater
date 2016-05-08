@@ -1,0 +1,17 @@
+ul {
+    attribute: value;
+    display:inline-block;
+    margin:8px;
+    padding:20px;
+    background:white;
+    border:purple;
+    border-width:5px;
+    border-style:dashed;
+    border-radius:5px;
+
+}
+
+body{
+    background:rgba(255, 80, 230, 0.37);
+    text-align:center;
+}
